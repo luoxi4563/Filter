@@ -1,14 +1,11 @@
 payload:
 
   # > awa
-  - DOMAIN,emby.awatv.de
-
-  # > awa私服
-  - DOMAIN,sf-jp.awatv.de
-  - DOMAIN,sf-hk.awatv.de
-  - DOMAIN,sf-cdn.awatv.de
+  - DOMAIN-SUFFIX,awatv.de
 
   # > 天南vip
   - DOMAIN,vip.nanflix.net
 
-  - DOMAIN,7777777.buzz
+  - DOMAIN-SUFFIX,7777777.buzz
+
+  - DOMAIN-SUFFIX,ii00.cc
