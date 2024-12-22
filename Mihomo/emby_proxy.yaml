@@ -7,14 +7,8 @@ payload:
   - DOMAIN,misty.cx
   - DOMAIN,music.mefun.org
 
-  # 飞跃彩虹
-  - DOMAIN,581658.best
-
   # 天南
   - DOMAIN,nanflix.net
-
-  # nya
-  - DOMAIN,emby.bangumi.ca
 
   # 劳大
   - DOMAIN-SUFFIX,mius.uk
@@ -24,9 +18,3 @@ payload:
 
   # 卡戎
   - DOMAIN-SUFFIX,charontv.com
-
-  # > 桃子
-  - DOMAIN,embymv.link
-
-  # AuroraMedia
-  - DOMAIN-SUFFIX,auroramedia.vip
