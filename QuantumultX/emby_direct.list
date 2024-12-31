@@ -23,3 +23,9 @@ DOMAIN-SUFFIX,auroramedia.vip
 
 # nya
 DOMAIN,emby.bangumi.ca
+
+# 天南US
+DOMAIN-SUFFIX,nanflix.net
+
+# 探花tv
+DOMAIN-SUFFIX,tanhuatv.site
